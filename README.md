@@ -1,9 +1,8 @@
 **How to Run**
 
 1. Change to the "app" directory
-
 2. Load the file and run
-  -  Run ghci in the terminal to open "GHCI"
+   - Run ghci in the terminal to open "GHCI"
   - Once in ghci, type ":l mastermind.hs" to load the file
   -  Type "main" to start the program
 3. The program will prompt you for inputs. 
