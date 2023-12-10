@@ -1,9 +1,11 @@
 **How to Run**
-*1. Change to the "app" directory
-*2.  Load the file and run
-  a.  Run ghci in the terminal to open "GHCI"
-  b. Once in ghci, type ":l mastermind.hs" to load the file
-  c. Type "main" to start the program
+
+1. Change to the "app" directory
+
+2. Load the file and run
+  -  Run ghci in the terminal to open "GHCI"
+  - Once in ghci, type ":l mastermind.hs" to load the file
+  -  Type "main" to start the program
 3. The program will prompt you for inputs. 
   a. Guesses: Guesses should be a four letter input, with each letter matching one of
 the acceptable colors. Inputs can be uppercase or lowercase.
