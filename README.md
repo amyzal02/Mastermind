@@ -1,6 +1,6 @@
-How to Run
-1. Change to the "app" directory
-2.  Load the file and run
+**How to Run**
+*1. Change to the "app" directory
+*2.  Load the file and run
   a.  Run ghci in the terminal to open "GHCI"
   b. Once in ghci, type ":l mastermind.hs" to load the file
   c. Type "main" to start the program
